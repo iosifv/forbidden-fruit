@@ -8,8 +8,10 @@ brew cask install visual-studio-code
 brew cask install postman
 brew cask install insomnia
 brew cask install iterm2
+brew cask install sequel-pro
 
 # Usability Casks
+brew cask install alfred
 brew cask install slack
 
 # Personal Casks
@@ -18,6 +20,7 @@ brew cask install authy
 brew cask install franz
 brew cask install firefox
 brew cask install opera
+brew cask install vlc
 
 # Personal Casks - Entertainment
 brew cask install motrix
@@ -61,6 +64,7 @@ brew install ranger    # Alternatives to the midnight commander.
 brew install tig       # A console UI for GIT
 brew install glances
 brew install cointop
+brew install bash-completion
 
 # Fun brews
 brew install cowsay fortune lolcat 
