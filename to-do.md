@@ -1,0 +1,27 @@
+- [ ] Delete stupid icons
+- [ ] Apps to delete
+    - [ ] Garage band
+    - [ ] Numbers
+    - [ ] Pages
+- [ ] Drivers & non-cask apps
+    - [ ] Logitech Drivers
+    - [ ] pCloud
+    - [ ] Ledger Live
+- [ ] Apps to configure
+    - [ ] Alfred
+        - [ ] Configure shortcut
+            - [ ] Keyboard > shortcuts > show spotlight search
+        - [ ] Set alt+space for Alfred
+    - [ ] Slack
+    - [ ] Spotify
+    - [ ] Chrome
+    - [ ] Authy
+- [ ] Settings
+    - [ ] Jump to the spot that’s clicked
+    - [ ] Automatically hide dock
+    - [ ] Resolution
+    - [ ] Nightshift
+    - [ ] Check for updates
+- [ ] Terminal
+    - [ ] Git
+    - [ ] 
