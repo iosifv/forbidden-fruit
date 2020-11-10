@@ -69,6 +69,7 @@ brew install cointop
 brew install bash-completion
 
 # Fun brews
+brew install sl
 brew install cowsay fortune lolcat 
 brew install screenfetch # Shows system information with nice graphics
 brew install inxi        # Shows system information condensed in 2 lines
