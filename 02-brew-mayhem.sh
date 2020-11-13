@@ -40,6 +40,7 @@ brew install node
 brew install nvm
 brew install awscli
 brew install openjdk
+brew install oracle-jdk
 brew install tesseract
 
 # Utility brews
