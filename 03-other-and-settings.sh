@@ -13,5 +13,12 @@ defaults write com.apple.dock autohide -bool true && defaults write com.apple.do
 # defaults delete com.apple.dock autohide && defaults delete com.apple.dock autohide-delay && defaults delete com.apple.dock autohide-time-modifier && killall Dock
 
 
-# Node package manager
+# Glorious graphical top
 npm install gtop -g
+
+# Glorious bash top
+python3 -m pip install psutil
+cd ~/www/playground
+git clone https://github.com/aristocratos/bpytop.git
+cd bpytop
+sudo make install

@@ -32,6 +32,7 @@ brew install composer
 brew install php
 brew install php@7.3
 brew install php@7.2
+brew install phpunit
 brew install mysql
 brew install sqlite
 brew install redis
@@ -42,6 +43,7 @@ brew install awscli
 brew install openjdk
 brew install oracle-jdk
 brew install tesseract
+brew install wget
 
 # Utility brews
 brew install ranger
@@ -68,6 +70,7 @@ brew install tig       # A console UI for GIT
 brew install glances
 brew install cointop
 brew install bash-completion
+brew tap orf/brew && brew install gping # ping but with a graph
 
 # Fun brews
 brew install sl
