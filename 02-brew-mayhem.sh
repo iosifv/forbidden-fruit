@@ -1,53 +1,27 @@
 brew install cask
 
+# Casks for an easy life
+brew install brave-browser firefox --cask
+brew install authy bitwarden alfred --cask
+
 # Programming Casks
-brew cask install phpstorm
-brew cask install webstorm
-brew cask install pycharm-ce
-brew cask install visual-studio-code
-brew cask install postman
-brew cask install insomnia
-brew cask install iterm2
-brew cask install sequel-pro
-
-# Usability Casks
-brew cask install alfred
-brew cask install slack
-
-# Personal Casks
-brew cask install lastpass
-brew cask install authy
-brew cask install franz
-brew cask install firefox
-brew cask install opera
-brew cask install vlc
+brew install phpstorm visual-studio-code --cask
+brew install iterm2 insomnia tableplus --cask
+brew install slack --cask
 
 # Personal Casks - Entertainment
-brew cask install motrix
-brew cask install battle-net
-brew cask install spotify
+brew install vlc motrix spotify battle-net --cask
 
 # Programming brews
-brew install composer
-brew install php
-brew install php@7.3
-brew install php@7.2
-brew install phpunit
-brew install mysql
-brew install sqlite
-brew install redis
-brew install python
-brew install node
+# brew install phpunit
+brew install mysql sqlite redis
+# brew install python
 brew install nvm
 brew install awscli
-brew install openjdk
-brew install oracle-jdk
-brew install tesseract
 brew install wget
 
 # Utility brews
 brew install ranger
-brew install lastpass-cli
 brew install thefuck
 brew install bat       # Cat with wings
 brew install speedtest-cli
@@ -73,8 +47,7 @@ brew install bash-completion
 brew tap orf/brew && brew install gping # ping but with a graph
 
 # Fun brews
-brew install sl
-brew install cowsay fortune lolcat 
+brew install sl cowsay fortune lolcat 
 brew install screenfetch # Shows system information with nice graphics
 brew install inxi        # Shows system information condensed in 2 lines
 brew install ansiweather # Shows brief information about the weather
