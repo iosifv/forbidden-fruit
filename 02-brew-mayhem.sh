@@ -20,7 +20,7 @@ brew install awscli
 brew install wget
 
 # Utility brews
-brew install bitwarden-cli
+brew install bitwarden-cli rclone
 brew install ranger
 brew install thefuck
 brew install bat       # Cat with wings
