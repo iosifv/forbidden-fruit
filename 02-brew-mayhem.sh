@@ -9,7 +9,7 @@ brew install iterm2 insomnia tableplus --cask
 brew install slack --cask
 
 # Personal Casks - Entertainment
-brew install vlc motrix spotify battle-net --cask
+brew install whatsapp messenger vlc motrix spotify battle-net --cask
 
 # Programming brews
 # brew install phpunit
