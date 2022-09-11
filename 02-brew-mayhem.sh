@@ -1,4 +1,3 @@
-brew install cask
 
 # Casks for an easy life
 brew install brave-browser firefox --cask
