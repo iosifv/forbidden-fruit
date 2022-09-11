@@ -4,7 +4,8 @@ Install Brew
 ```
 
 Install Octotree
-- (Link)[https://apps.apple.com/us/app/octotree-pro/id1457450145?mt=12]
+- (Apple Store Link)[https://apps.apple.com/us/app/octotree-pro/id1457450145?mt=12]
+- (Chrome Extension Link)[https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc]
 
 Remove all the crap from the Dock
 ```
