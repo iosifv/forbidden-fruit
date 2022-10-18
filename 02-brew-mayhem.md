@@ -20,7 +20,7 @@ brew install whatsapp messenger vlc motrix spotify battle-net --cask
 
 ## Programming brews
 ```
-brew install mysql sqlite redis nvm awscli wget
+brew install mysql sqlite redis nvm awscli wget composer
 ```
 
 Others you might want: 
@@ -31,7 +31,7 @@ brew install phpunit
 
 ## Utility brews
 ```
-brew install bitwarden-cli rclone bat speedtest-cli htop watch ranger thefuck dos2unix xclip ncdu tmux ack mc multitail yarn cloc pygments tig glances cointop bash-completion
+brew install bitwarden-cli rclone bat speedtest-cli htop watch ranger thefuck dos2unix xclip ncdu tmux ack mc multitail yarn cloc pygments tig glances cointop bash-completion bpytop
 ```
 
 - bat 		# Cat with wings
@@ -52,7 +52,7 @@ brew install bitwarden-cli rclone bat speedtest-cli htop watch ranger thefuck do
 - cointop
 - bash-completion
 - gping 	# ping but with a graph
-
+- bpytop    # The top app on top of all other apps
 
 
 # Fun brews
