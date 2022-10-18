@@ -1,3 +1,7 @@
+## Install Octotree
+- [Apple Store Link](https://apps.apple.com/us/app/octotree-pro/id1457450145?mt=12)
+- [Chrome Extension Link](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
+
 ## Install Brew
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
@@ -11,12 +15,12 @@ echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/iosif/.zprofile \
 && brew -v
 ```
 
-hostname
-&& ls
+## Avoid being a CLI pleb, install Powerlevel
 
-## Install Octotree
-- [Apple Store Link](https://apps.apple.com/us/app/octotree-pro/id1457450145?mt=12)
-- [Chrome Extension Link](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
+- Install via brew: https://github.com/romkatv/powerlevel10k#homebrew
+- Add fonts to the terminal app: https://github.com/romkatv/powerlevel10k#fonts
+
+
 
 ## Sometimes I get a really weird hostname
 ```
