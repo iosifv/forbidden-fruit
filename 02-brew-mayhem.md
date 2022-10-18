@@ -31,7 +31,7 @@ brew install phpunit
 
 ## Utility brews
 ```
-brew install bitwarden-cli rclone bat speedtest-cli htop watch ranger thefuck dos2unix xclip ncdu tmux ack mc multitail yarn qalc cloc pygments tig glances cointop bash-completion
+brew install bitwarden-cli rclone bat speedtest-cli htop watch ranger thefuck dos2unix xclip ncdu tmux ack mc multitail yarn cloc pygments tig glances cointop bash-completion
 ```
 
 - bat 		# Cat with wings
@@ -44,7 +44,6 @@ brew install bitwarden-cli rclone bat speedtest-cli htop watch ranger thefuck do
 - multitail # Multiple tails in one feed
 - yarn      # Yet another Dependency manager
 - zsh       # Needed for oh-my-zsh
-- qalc      # Amazing Qualculator
 - cloc      # Counts lines of code
 - pygments  # Pygmentyze your output
 - ranger    # Alternatives to the midnight commander. 
