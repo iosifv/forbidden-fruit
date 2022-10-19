@@ -2,4 +2,4 @@
 Repo for setting up my MacBook
 
 ### Links to md files
-- [Prerequisites](01-prerequisites.ms)
+- [Prerequisites](01-prerequisites.md)
