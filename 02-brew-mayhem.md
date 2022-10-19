@@ -6,7 +6,7 @@ brew install brave-browser firefox authy bitwarden alfred --cask
 
 ## Programming Casks
 ```
-brew install visual-studio-code iterm2 insomnia tableplus slack --cask
+brew install visual-studio-code iterm2 insomnia tableplus slack linear --cask
 ```
 Others you might want: 
 ```
@@ -15,7 +15,8 @@ brew install phpstorm
 
 ## Personal Casks - Entertainment
 ```
-brew install whatsapp messenger vlc motrix spotify battle-net --cask
+brew install whatsapp messenger vlc motrix spotify battle-net discord
+ --cask
 ```
 
 ## Programming brews
