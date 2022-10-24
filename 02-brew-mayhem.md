@@ -19,8 +19,7 @@ brew install phpstorm
 ## Personal Casks - Entertainment
 
 ```
-brew install whatsapp messenger vlc motrix spotify battle-net discord
- --cask
+brew install whatsapp messenger discord telegram vlc motrix spotify battle-net balenaetcher --cask
 ```
 
 ## Programming brews
