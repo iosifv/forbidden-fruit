@@ -3,11 +3,11 @@
 - [Chrome Extension Link](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
 
 ## Install Brew
-```
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 Then the commands it gives you at the end to add brew to PATH
-```
+```bash
 echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/iosif/.zprofile \
 && echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/iosif/.zprofile \
 && eval "$(/opt/homebrew/bin/brew shellenv)" \
@@ -23,7 +23,7 @@ echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/iosif/.zprofile \
 
 
 ## Sometimes I get a really weird hostname
-```
+```bash
 sudo scutil --set HostName iosif-mbp \
 && sudo scutil --set LocalHostName iosif-mbp \
 && sudo scutil --set ComputerName iosif-mbp \
@@ -32,16 +32,16 @@ sudo scutil --set HostName iosif-mbp \
 Restart at the end
 
 ## Remove all the crap from the Dock
-```
+```bash
 brew install dockutil
 ```
-```
+```bash
 dockutil --remove all \
 && dockutil --add 'System Preferences' --allhomes
 ```
 
-## Prepare to install from genesis repository
-```
+## Prepare to install my silence repository
+```bash
 brew install git
 brew install gpg
 ```

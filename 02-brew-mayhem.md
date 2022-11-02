@@ -1,42 +1,42 @@
 ## Casks for an easy life
 
-```
+```bash
 brew install brave-browser firefox authy bitwarden alfred --cask
 ```
 
 ## Programming Casks
 
-```
+```bash
 brew install visual-studio-code iterm2 insomnia tableplus dbngin slack linear --cask
 ```
 
 Others you might want:
 
-```
+```bash
 brew install phpstorm
 ```
 
 ## Personal Casks - Entertainment
 
-```
+```bash
 brew install whatsapp messenger discord telegram vlc motrix spotify battle-net balenaetcher --cask
 ```
 
 ## Programming brews
 
-```
-brew install mysql sqlite redis nvm awscli wget composer
+```bash
+brew install mysql sqlite redis nvm awscli wget composer hugo
 ```
 
 Others you might want:
 
-```
+```bash
 brew install phpunit
 ```
 
 ## Utility brews
 
-```
+```bash
 brew install bitwarden-cli rclone bat speedtest-cli htop watch ranger thefuck dos2unix xclip ncdu tmux ack mc multitail yarn cloc pygments tig glances cointop bash-completion bpytop
 ```
 
@@ -62,7 +62,7 @@ brew install bitwarden-cli rclone bat speedtest-cli htop watch ranger thefuck do
 
 # Fun brews
 
-```
+```bash
 brew install sl cowsay fortune lolcat screenfetch inxi ansiweather cmatrix
 ```
 
