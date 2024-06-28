@@ -1,7 +1,7 @@
 ## Casks for an easy life
 
 ```bash
-brew install brave-browser firefox authy bitwarden alfred --cask
+brew install brave-browser firefox authy bitwarden alfred sejda-pdf obsidian bluesnooze --cask
 ```
 
 ## Programming Casks
@@ -34,7 +34,7 @@ Others you might want:
 brew install phpunit
 ```
 
-## Utility brews
+## CLI Utility brews
 
 ```bash
 brew install bitwarden-cli rclone bat speedtest-cli htop watch ranger thefuck dos2unix xclip ncdu tmux ack mc multitail yarn cloc pygments tig glances cointop bash-completion bpytop
